@@ -11,3 +11,4 @@ Prazan projekat sa pratećim bibliotekama koje koristimo na času.
 7. ALT+SHIFT+F10 -> project_base -> run
 
 # Prvi commit
+Uspesno odradjen
