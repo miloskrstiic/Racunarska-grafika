@@ -1,6 +1,5 @@
 # project_base
 Miloš Krstić
-
 Uspesno odradjen git pull(fetch + merge)
 
 # Uputstvo
