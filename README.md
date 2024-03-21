@@ -1,7 +1,6 @@
 # project_base
 Miloš Krstić
- 
-# Uspesno odradjen git pull(fetch + merge)
+Uspesno odradjen git pull(fetch + merge)
 
 # Uputstvo
 1. `git clone https://github.com/matf-racunarska-grafika/project_base.git`
