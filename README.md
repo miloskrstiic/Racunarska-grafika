@@ -1,5 +1,5 @@
 # project_base
-Miloš Krstić
+UIAGAEGNEONGJNESGNS
 
 # Uputstvo
 1. `git clone https://github.com/matf-racunarska-grafika/project_base.git`
